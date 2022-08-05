@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">フラッシュ暗算2</string>
+
+    <string name="start">スタート</string>
+
+    <string name="ans">答え</string>
+
+    <string name="setting_download">設定</string>
+
+    <string name="correct"> 〇　正解　〇</string>
+    <string name="inCorrect"> ×　間違い　×</string>
+    <string name="correct_anser"> 正答 </string>
+
+    <string name="re_turn"> 戻る </string>
+    <string name="end"> 終了 </string>
+
+    <string name="max"> 最大 </string>
+    <string name="min"> 最小 </string>
+    <string name="quantity"> 個数 </string>
+    <string name="interval"> 間隔(ミリ秒) </string>
+
+
+    <string name="web_site"> おすすめアプリ </string>
+
+
+    <string-array name="list_kannkaku">
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+    </string-array>
+
+    <string-array name="list_suuti1">
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>100000</item>
+    </string-array>
+    <string-array name="list_suuti2"  >
+
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>100000</item>
+    </string-array>
+
+
+
+    <string-array name="list_kosuu">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+
+
+
+
+    <string name="cnf_b_1">Button</string>
+    test_text_view
+    <string name="test_text_view">text</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="button_back">＜</string>
+    <string name="button_next">＞</string>
+    <string name="button_idou">移動</string>
+    <string name="button_kyouka1" >2019 地理A</string>
+    <string name="button_kyouka2">2019 地理B　</string>
+    <string name="button_kyouka3" >2019　地学</string>
+    <string name="button_kyouka4">2019　物理</string>
+
+    <string name="text_all_app">全種類アプリ 　URL</string>
+    <string name="text_senntaa_all">センター過去問 各年度URL</string>
+    <string name="text_senntaa_2018">2018年度 センター過去問 URL</string>
+    <string name="text_senntaa_2019">2019年度 センター過去問 URL</string>
+    <string name="text_jyouhou_all">情報処理系過去問 URL</string>
+    <string name="text_kanngo_all">看護国家試験過去問 URL</string>
+    <string name="text_mini_game">ミニゲーム URL</string>
+
+    <string name="url_all_app">http://www.kami-apuri.com/article/464094690.html</string>
+    <string name="url_senntaa_all">http://www.kami-apuri.com/article/464094702.html</string>
+    <string name="url_senntaa_2018">http://www.kami-apuri.com/article/464094722.html</string>
+    <string name="url_senntaa_2019">http://www.kami-apuri.com/article/464094764.html</string>
+    <string name="url_jyouhou_all">http://www.kami-apuri.com/article/464094737.html</string>
+    <string name="url_kanngo_all">http://www.kami-apuri.com/article/464094733.html</string>
+    <string name="url_mini_game">http://www.kami-apuri.com/article/464094770.html</string>
+
+
+
+
+
+
+    <string name="text_it_p_2018_aki">2018年度秋　ITパスポート過去問</string>
+    <string name="url_it_p_2018_aki" >
+        https://play.google.com/store/apps/details?id=click.nobiru.it_p_2018_aki</string>
+    <string name="text_k_jyouhou_2018_aki">2018年度基本情報　秋　</string>
+    <string name="url_k_jyouhou_2018_aki" >
+        https://play.google.com/store/apps/details?id=click.nobiru.k_jyouhou_2018_aki</string>
+
+
+
+
+    <string name="text_view_idou">ページ数入力</string>
+
+    <string name="text_kanngo_2018">2018年度　看護国家試験過去問</string>
+    <string name="text_kanngo_2017">2017年度　看護国家試験過去問</string>
+    <string name="text_kanngo_2016">2016年度　看護国家試験過去問</string>
+    <string name="text_kanngo_2015">2015年度　看護国家試験過去問</string>
+    <string name="text_kanngo_2012">2012年度 + 2011年度　看護国家試験過去問</string>
+
+    <string name="text_eigo_1"     >2019年度センター試験　英語</string>
+    <string name="text_kokugo_1"   >2019年度センター試験　国語</string>
+    <string name="text_suugaku_1"  >2019年度センター試験　数学</string>
+    <string name="text_sekaishi_1"  >2019年度センター試験　世界史</string>
+    <string name="text_nihonnshi_1">2019年度センター試験　日本史</string>
+    <string name="text_tiri_1"      >2019年度センター試験　地理</string>
+    <string name="text_kouminn_1"   >2019年度センター試験　公民</string>
+    <string name="text_rika1_1"     >2019年度センター試験　理科１</string>
+    <string name="text_rika2_1"     >2019年度センター試験　理科２</string>
+
+    <string name="url_eigo_1"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_eigo_1</string>
+    <string name="url_kokugo_1"   >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_kokugo_1</string>
+    <string name="url_suugaku_1"  >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_suugaku_1</string>
+    <string name="url_sekaishi_1"  >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_sekaishi_1</string>
+    <string name="url_nihonnshi_1">https://play.google.com/store/apps/details?id=click.nobiru.senntaa_nihonnshi_1</string>
+    <string name="url_tiri_1"      >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_tiri_1</string>
+    <string name="url_kouminn_1"   >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_kouminn_1</string>
+    <string name="url_rika1_1"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_rika1_1</string>
+    <string name="url_rika2_1"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_rika2_1</string>
+
+
+
+    <string name="text_2018_eigo"     >2018年度センター試験 英語</string>
+    <string name="text_2018_kokugo"   >2018年度センター試験 国語</string>
+    <string name="text_2018_suugaku"  >2018年度センター試験 数学</string>
+    <string name="text_2018_sekaisi"  >2018年度センター試験 世界史</string>
+    <string name="text_2018_nihonnshi">2018年度センター試験 日本史</string>
+    <string name="text_2018_tiri"      >2018年度センター試験 地理</string>
+    <string name="text_2018_kouminn"   >2018年度センター試験 公民</string>
+    <string name="text_2018_rika1"     >2018年度センター試験 理科１</string>
+    <string name="text_2018_rika2"     >2018年度センター試験 理科２</string>
+
+
+
+    <string name="url_2018_eigo"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_eigo</string>
+    <string name="url_2018_kokugo"   >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_kokugo</string>
+    <string name="url_2018_suugaku"  >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_suugaku</string>
+    <string name="url_2018_sekaisi"  >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_sekaishi</string>
+    <string name="url_2018_nihonnshi">https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_nihonnshi</string>
+    <string name="url_2018_tiri"      >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_tiri</string>
+    <string name="url_2018_kouminn"   >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_kouminn</string>
+    <string name="url_2018_rika1"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_rika1</string>
+    <string name="url_2018_rika2"     >https://play.google.com/store/apps/details?id=click.nobiru.senntaa_2018_rika2</string>
+
+
+
+    <string name="text_hyakumasu">百マス計算</string>
+    <string name="text_5masu"    >5×5マス計算</string>
+    <string name="text_3masu"    >3×3マス計算</string>
+    <string name="text_Frsh"     >フラッシュ計算</string>
+    <string name="text_jyannkenn">じゃんけんゲーム</string>
+
+
+    <string name="url_kanngo_2018">https://play.google.com/store/apps/details?id=click.nobiru.kanngo_kokushi_107</string>
+    <string name="url_kanngo_2017">https://play.google.com/store/apps/details?id=click.nobiru.kanngo_kokushi_106</string>
+    <string name="url_kanngo_2016">https://play.google.com/store/apps/details?id=click.nobiru.kanngo_kokushi_105</string>
+    <string name="url_kanngo_2015">https://play.google.com/store/apps/details?id=com.sys.t.a.test</string>
+    <string name="url_kanngo_2012">https://play.google.com/store/apps/details?id=at_sys.pk.kanngo_kokushi</string>
+
+    <string name="url_hyakumasu">https://play.google.com/store/apps/details?id=click.nobiru.hyakumasu</string>
+    <string name="url_5masu"    >https://play.google.com/store/apps/details?id=click.nobiru.quumasu</string>
+    <string name="url_3masu"    >https://play.google.com/store/apps/details?id=click.nobiru.sannmasu</string>
+    <string name="url_Frsh"     >https://play.google.com/store/apps/details?id=click.nobiru.annzann</string>
+    <string name="url_jyannkenn">https://play.google.com/store/apps/details?id=click.nobiru.jyannkenn</string>
+
+
+
+
+</resources>

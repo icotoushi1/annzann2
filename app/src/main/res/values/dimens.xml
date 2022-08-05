@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">3dp</dimen>
+    <dimen name="activity_vertical_margin">3dp</dimen>
+
+    <dimen name="button_yajirushi">40dp</dimen>
+    <dimen name="button_yajirushi_hight">80dp</dimen>
+    <dimen name="obj_size1">50dp</dimen>
+</resources>

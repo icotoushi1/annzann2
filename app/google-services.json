@@ -1,0 +1,1264 @@
+{
+  "project_info": {
+    "project_number": "693850455107",
+    "firebase_url": "https://koukoku-7fa78.firebaseio.com",
+    "project_id": "koukoku-7fa78",
+    "storage_bucket": "koukoku-7fa78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:c03a8ccf332202e9",
+        "android_client_info": {
+          "package_name": "click.nobiru.annzann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:39ea0e47e217fd08",
+        "android_client_info": {
+          "package_name": "click.nobiru.annzann2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:8676242dbc26ad5e",
+        "android_client_info": {
+          "package_name": "click.nobiru.hyakumasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:b40e230699fe57fa",
+        "android_client_info": {
+          "package_name": "click.nobiru.hyakumasu2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:ea44e94323371bec",
+        "android_client_info": {
+          "package_name": "click.nobiru.it_p_2018_aki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:d2dbd4fa6167f18d",
+        "android_client_info": {
+          "package_name": "click.nobiru.jyannkenn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:70d6c07965d21824",
+        "android_client_info": {
+          "package_name": "click.nobiru.k_jyouhou_2018_aki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:80e4eb08053d3729",
+        "android_client_info": {
+          "package_name": "click.nobiru.kanngo_kokushi_104"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:3ee3a53b87ecebf1",
+        "android_client_info": {
+          "package_name": "click.nobiru.kanngo_kokushi_105"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:3d0d1321d449379c",
+        "android_client_info": {
+          "package_name": "click.nobiru.kanngo_kokushi_106"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:ac4b769f13ca715b",
+        "android_client_info": {
+          "package_name": "click.nobiru.kanngo_kokushi_107"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:114f4a5bb7afbd28",
+        "android_client_info": {
+          "package_name": "click.nobiru.kannji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:6c5e5284cccece1e",
+        "android_client_info": {
+          "package_name": "click.nobiru.kannji_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:6359e177537fea76",
+        "android_client_info": {
+          "package_name": "click.nobiru.kannji_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:03e2ad5170bec43c",
+        "android_client_info": {
+          "package_name": "click.nobiru.kannji_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:2bd5bcac074007f7",
+        "android_client_info": {
+          "package_name": "click.nobiru.kannji_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:2ada9357d3583692",
+        "android_client_info": {
+          "package_name": "click.nobiru.koukoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-cjqm487hs6ta9b81ko6i94mja0b4s892.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "click.nobiru.koukoku",
+            "certificate_hash": "12475a80d0264cb3a25d0efca60c53185e21152e"
+          }
+        },
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:5e6e4a279de4981e",
+        "android_client_info": {
+          "package_name": "click.nobiru.kounann_koukoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:f4ffa4193f081dba",
+        "android_client_info": {
+          "package_name": "click.nobiru.quumasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:c6214ad42ba8e74f",
+        "android_client_info": {
+          "package_name": "click.nobiru.sannmasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:f210b18bfed0af0c",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_eigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:938389dd89f033ea",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_kokugo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:7eb6eb4df4535300",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_kouminn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:a6c58b4ccdcc4811",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_nihonnshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:81911e114af0eb23",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_rika1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:104b22cec6541112",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_rika2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:b659f3f4b4fd8fa3",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_sekaishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:524df9c87d396b3f",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_suugaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:57780d0dddc5fa23",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_2018_tiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:2bd5955170c221c5",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_eigo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:cb145937d9548795",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_kokugo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:b6d52c2db9a7afe1",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_kouminn_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:020b81143fcabe0f",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_nihonnshi_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:b7d727b211807e76",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_rika1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:6b84d961f3f7f72d",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_rika2_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:e2da8d9364a4b0ce",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_rika2_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:8d6867f3f18d17cf",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_sekaishi_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:bc21fa8b1db26dea",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_suugaku_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:ee296974408d5bca",
+        "android_client_info": {
+          "package_name": "click.nobiru.senntaa_tiri_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693850455107:android:75792995fd5b9313",
+        "android_client_info": {
+          "package_name": "click.nobiru.taisenn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693850455107-hf02je5fngti1rra90406ndgfrbaevsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6FO2693j0CXN6ZignUT1Ig2D5Dvm4-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
