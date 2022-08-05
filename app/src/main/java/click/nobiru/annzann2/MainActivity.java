@@ -24,8 +24,11 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity  {
 
+
+
     int ANS=0,RAND=0,sleepTime=1000;
     int select =1;//1=admob
+    int select2 =1;//1=admob
     TextView textQuestion,textMsg1,textMsg2;
     EditText edAns;
     Button btnStart,buttonAns;
